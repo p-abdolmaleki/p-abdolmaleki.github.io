@@ -25,7 +25,7 @@ organizations:
     url: https://www.sru.ac.ir/
 
 # Short bio (displayed in user profile at end of posts)
-bio: ''
+bio: 
 
 # Interests to show in About widget
 interests:
@@ -88,5 +88,7 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Parsa is an undergraduate student in the field of computer engineering at Tarbiat Debir Shahd Rajaei University, where he investigates fields such as natural language processing, machine vision and deep learning. Parsa is engaged in research activities during his studies at the Scientific Society of Computer Engineering.
+
+Motivated by his passion for this field, Parsa seeks to continue his master's degree in artificial intelligence to continue his research and advance this field further.
 {style="text-align: justify;"}
