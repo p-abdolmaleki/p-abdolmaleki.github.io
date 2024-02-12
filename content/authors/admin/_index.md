@@ -25,9 +25,7 @@ organizations:
     url: https://www.sru.ac.ir/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Parsa is an undergraduate student in the field of computer engineering at Tarbiat Debir Shahd Rajaei University, where he investigates fields such as natural language processing, machine vision and deep learning. Parsa is engaged in research activities during his studies at the Scientific Society of Computer Engineering.
-
-Motivated by his passion for this field, Parsa seeks to continue his master's degree in artificial intelligence to continue his research and advance this field further.
+bio: ''
 
 # Interests to show in About widget
 interests:
