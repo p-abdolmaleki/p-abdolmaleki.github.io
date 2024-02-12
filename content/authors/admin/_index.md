@@ -44,15 +44,28 @@ education:
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
-  - name: programming languages
-    icon: :man_technologist:
-    description: 'Python, C++, C'
-  - name: Machine/Deep Learning
-    icon: :brain:
-    description: 'tensorflow, keras, scikit-learn, cv2'
-  - name: Data Science
-    icon: :bar_chart:
-    description: 'numpy, pandas, plotly, matploblib, sql'
+  - name: Technical
+    items:
+      - name: Python
+        description: ''
+        percent: 80
+        icon: python
+        icon_pack: fab
+      - name: CPP
+        description: ''
+        percent: 70
+        icon: python
+        icon_pack: fab
+      - name: Data Science
+        description: ''
+        percent: 100
+        icon: chart-line
+        icon_pack: fas
+      - name: SQL
+        description: ''
+        percent: 40
+        icon: database
+        icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
