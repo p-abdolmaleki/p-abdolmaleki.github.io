@@ -240,7 +240,6 @@ sections:
       text: ''
       # Contact (add or remove contact options as necessary)
       email: p.abdolmaleki81@gmail.com
-      appointment_url: 'https://calendly.com'
       address:
         street: ''
         city: Tehran
