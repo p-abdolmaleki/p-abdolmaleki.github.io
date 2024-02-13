@@ -44,7 +44,7 @@ education:
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
-  - name: Technical
+  - name: HARD
     items:
       - name: Python
         description: 
@@ -60,6 +60,23 @@ skills:
         description: numpy, pandas, plotly, matploblib, sql
         percent: 100
         icon: 📊
+        icon_pack: emoji
+  - name: SOFT
+    items:
+      - name: Project management
+        description: ''
+        percent: 85
+        icon: 🤵🏻‍♂️
+        icon_pack: emoji
+      - name: Leadership
+        description: ''
+        percent: 87
+        icon: 🎯
+        icon_pack: emoji
+      - name: Problem Solving
+        description: ''
+        percent: 100
+        icon: 📜
         icon_pack: emoji
 
 # Social/Academic Networking
