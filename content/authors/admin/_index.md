@@ -46,16 +46,17 @@ education:
 skills:
   - name: Technical
     items:
-      - name: Programming Languages
+      - icon: 👨🏻‍💻
+        name: Programming Languages
         description: 'Python'
         percent: 80
-        icon: 👨🏻‍💻
+        # icon: 👨🏻‍💻
         icon_pack: emoji
-      - name: CPP
+      - name: 
         description: ''
         percent: 70
-        icon: python
-        icon_pack: fab
+        icon: 🧠
+        icon_pack: emoji
       - name: Data Science
         description: ''
         percent: 100
