@@ -96,7 +96,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/parsa-abdolmaleki-08ab1a2a4/
   - icon: telegram
-    icon-pack: ''
+    icon-pack: ai
     link: https://t.me/Hedayat_A
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
