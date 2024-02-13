@@ -243,7 +243,7 @@ sections:
       address:
         street: ''
         city: Tehran
-        region: Tehean
+        region: Tehran
         postcode: ''
         country: Iran
         country_code: IR
