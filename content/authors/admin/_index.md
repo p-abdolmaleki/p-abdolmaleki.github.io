@@ -96,7 +96,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/parsa-abdolmaleki-08ab1a2a4/
   - icon: telegram
-    icon-pack: fab
+    icon-pack: ''
     link: https://t.me/Hedayat_A
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
@@ -109,7 +109,7 @@ social:
 highlight_name: true
 ---
 
-Parsa is an undergraduate student in the field of computer engineering at Tarbiat Debir Shahd Rajaei University, where he investigates fields such as natural language processing, machine vision and deep learning. Parsa is engaged in research activities during his studies at the Scientific Society of Computer Engineering.
+Parsa is an undergraduate student in the field of computer engineering at Teacher Training University, where he investigates fields such as natural language processing, machine vision and deep learning. Parsa is engaged in research activities during his studies at the Scientific Society of Computer Engineering.
 
 Motivated by his passion for this field, Parsa seeks to continue his master's degree in artificial intelligence to continue his research and advance this field further.
 {style="text-align: justify;"}
