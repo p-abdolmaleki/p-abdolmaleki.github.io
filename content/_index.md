@@ -251,7 +251,7 @@ sections:
       contact_links:
         - icon: linkedin
           icon_pack: fab
-          name: parsa-abdolamleki
+          name: Parsa Abdolamleki
           link: https://www.linkedin.com/in/parsa-abdolmaleki-08ab1a2a4/
 
         - icon: skype
