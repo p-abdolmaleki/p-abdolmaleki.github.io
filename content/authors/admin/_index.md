@@ -45,14 +45,11 @@ education:
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
   - name: Technical
-    icon: 👨🏻‍💻
-    icon_pack: emoji
     items:
-      - icon: 👨🏻‍💻
-        name: Programming Languages
-        description: 'Python'
-        percent: 80
-        # icon: 👨🏻‍💻
+      - name: Python
+        description: 
+        # percent: 80
+        icon: 👨🏻‍💻
         icon_pack: emoji
       - name: 
         description: ''
