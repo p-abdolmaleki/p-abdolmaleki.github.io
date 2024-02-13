@@ -50,7 +50,7 @@ skills:
         description: 'Python'
         percent: 80
         icon: 👨🏻‍💻
-        icon_pack:
+        icon_pack: emoji
       - name: CPP
         description: ''
         percent: 70
