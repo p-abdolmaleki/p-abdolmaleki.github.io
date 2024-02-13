@@ -49,7 +49,7 @@ skills:
       - name: Programming Languages
         description: 'Python'
         percent: 80
-        icon: :man_technologist:
+        icon: 👨‍💻
         icon_pack:
       - name: CPP
         description: ''
