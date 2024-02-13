@@ -48,24 +48,19 @@ skills:
     items:
       - name: Python
         description: 
-        # percent: 80
+        percent: 90
         icon: 👨🏻‍💻
         icon_pack: emoji
-      - name: 
-        description: ''
+      - name: Machine/Deep Learning
+        description: tensorflow, keras, scikit-learn, cv2
         percent: 70
         icon: 🧠
         icon_pack: emoji
       - name: Data Science
-        description: ''
+        description: numpy, pandas, plotly, matploblib, sql
         percent: 100
-        icon: chart-line
-        icon_pack: fas
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: database
-        icon_pack: fas
+        icon: 📊
+        icon_pack: emoji
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
